@@ -1,15 +1,21 @@
-front-End-Design-Engineering / FIAP
+# Front-End-Design-Engineering / FIAP
 ```
-Repositório inicial
+- Repositório inicial
 - Iniciando com comandos básicos
--- Git init
+-- git init
 -- git commit
 -- git config
 -- git add
 -- git dif
---git log
+-- git log
 -- git show
 -- git branch
 -- git push
-
+```
+## Partindo para um conteúdo mais avançado:
+- Manipulando branchs
+```
+-- git checkout -b
+-- git merge
+ 
 ```
